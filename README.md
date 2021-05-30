@@ -81,11 +81,11 @@ We segmentise the states into 3 categories. We will be using 2018 participation 
 
 1) States with very high (>80%) to full SAT participation rates - there is little room for any increase in SAT participation in these states. Typically these states already mandate it for students to take the SAT test to graduate. CollegeBoard should maintain the current approach with these states, revamping the syllabus when needed and providing accessability to students in need so as to not lose its current standing to the ACT.
 
-![SAT18](../images/SAT%2018.png)
+![SAT18](images/SAT%2018.png)
 
 2) States with very high (>80%) to full ACT participation rates - These states typically have multi-year contracts signed with ACT. While it is possible to raise participation rates in these countries, one could argue that it is not economical as students who see the value in SAT to boost their college admission chances will opt to take the SATs, further expansion is unlikely. College Board should take note when the contracts are up for bidding to regain market share. We have seen this happen in Colorado, Illonois and Rhode Island to name a few.
 
-![ACT18](../images/ACT%2018.png)
+![ACT18](images/ACT%2018.png)
 
 3) States with neither a high SAT nor high ACT participation rate - these are state that typically do not have contracts with either College Board or the ACT. This is the prime segment to target to increase SAT participation rates. We can see this segment in the bottom left quadrant in the scatter plot below.
 
