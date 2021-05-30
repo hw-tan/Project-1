@@ -25,7 +25,7 @@ With the combined dataset, we conducted Exploratory Data Analysis, to investigat
 
 To summarise the relationships, look at the correlation matrix
 
-![Correlation_Matrix](../images/Correlation.png)
+![Correlation_Matrix](images/Correlation.png)
 
 SAT participation rate is negatively correlated with ACT participation rate. This is expected, as local education boards will typically choose 1 of the college admissions exams to prioritise over the other. So if the SAT participation rate is high in a state, the ACT participation will likely be lower.
 
@@ -42,7 +42,7 @@ There are 3 types of states:
 
 - Low participation in ACT and high participation in SAT
 
-![3state](../images/scatterplot.png)
+![3state](images/scatterplot.png)
 
 These 3 states will require a different strategy to increase the SAT participation rate.
 
