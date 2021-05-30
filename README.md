@@ -1,6 +1,4 @@
 # Project-1 SAT & ACT Analysis
-Project 1: Standardized Testing, Statistical Summaries and Inference
-
 
 The SAT and ACT are standardised test for US university admissions. While the format of each test are different, most universities do not prefer one over the other. College Board is a mission-driven not-for-profit organization that runs the SAT test to connects students to college success and opportunity. It is important to increase participation rates of the SAT as it provides a better chance for a student to enter college.
 
